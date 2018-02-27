@@ -1,2 +1,2 @@
 ## Colorize the ls output ##
-alias ls='ls --color=auto'
+alias ls='ls -G'
