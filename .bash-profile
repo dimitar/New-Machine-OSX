@@ -1,2 +1,3 @@
 ## Colorize the ls output ##
 alias ls='ls -G'
+alias la='ls -ahlG'
